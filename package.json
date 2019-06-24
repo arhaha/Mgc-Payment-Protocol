@@ -45,7 +45,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:MagnaChain/Mgc-Payment-Protocol.git",
+    "url": "git@github.com:arhaha/Mgc-Payment-Protocol.git",
   },
   "browser": "lib/browser.js",
   "dependencies": {
